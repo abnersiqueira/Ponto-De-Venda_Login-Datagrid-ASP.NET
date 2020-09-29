@@ -1,0 +1,52 @@
+﻿
+.Msg {
+    font-weight: bold;
+    color: red;
+}
+
+
+.tudo {
+    display: table;
+    margin:  0px;
+}
+
+.logo {
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+img {
+    margin: 10px;
+}
+
+
+.menu {
+    font-size: medium;
+    float: left;
+    width: 18%;
+}
+
+.Titulo {
+    margin-left:160px;
+    font-weight: bold;
+    font-size: large;
+    font-family:sans-serif;
+}
+
+.conteudo {
+    font-family: "Arial";
+    background: rgba(221, 219, 219, 0.11);
+    float:none;
+    margin-right: 100px;
+}
+
+.Rotulo {
+    font-family: "Arial";
+    background: silver;
+}
+
+.Campo {
+    font-family: "Arial";
+    font-weight: bold;
+}
+

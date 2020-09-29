@@ -1,0 +1,168 @@
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll.config
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.pdb
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe.config
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.rsp
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe.config
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.rsp
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.AppContext.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Collections.Immutable.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Console.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Compression.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Reflection.Metadata.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.AccessControl.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Claims.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.ValueTuple.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe.config
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.rsp
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe.config
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csprojAssemblyReference.cache
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CoreCompileInputs.cache
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CopyComplete
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.dll
+D:\PontoDeVenda\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.pdb
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll.config
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.pdb
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CopyComplete
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.dll
+C:\Users\User\Desktop\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.pdb
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll.config
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\PontoDeVenda.pdb
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.exe.config
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csc.rsp
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.exe.config
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\csi.rsp
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.AppContext.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Console.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.exe.config
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\vbc.rsp
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csprojAssemblyReference.cache
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CoreCompileInputs.cache
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.csproj.CopyComplete
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.dll
+D:\Faculdade #3\PontoDeVenda_20200923\PontoDeVenda\PontoDeVenda\obj\Debug\PontoDeVenda.pdb
